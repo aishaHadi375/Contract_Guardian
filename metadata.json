@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Contract Guardian - Gemini 3 Hackathon MVP",
+  "description": ""
+}
